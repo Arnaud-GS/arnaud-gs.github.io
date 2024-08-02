@@ -1,13 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "A Probabilistic Design for Practical Homomorphic Majority Voting with Intrinsic Differential Privacy"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2023-11-26
+venue: 'Proceedings of the 11th Workshop on Encrypted Computing & Applied Homomorphic Cryptography'
+paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3605759.3625258'
+citation: 'Grivet Sébert, A., Zuber, M., Stan, O., Sirdey, R., & Gouy-Pailler, C. (2023, November). A probabilistic design for practical homomorphic majority voting with intrinsic differential privacy. In Proceedings of the 11th Workshop on Encrypted Computing & Applied Homomorphic Cryptography (pp. 47-58).'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
