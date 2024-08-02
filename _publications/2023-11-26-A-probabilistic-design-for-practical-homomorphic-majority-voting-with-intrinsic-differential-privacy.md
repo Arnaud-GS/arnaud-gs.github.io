@@ -1,7 +1,7 @@
 ---
 title: "A Probabilistic Design for Practical Homomorphic Majority Voting with Intrinsic Differential Privacy"
 collection: publications
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/2023-11-26-A-probabilistic-design-for-practical-homomorphic-majority-voting-with-intrinsic-differential-privacy
 date: 2023-11-26
 venue: 'Proceedings of the 11th Workshop on Encrypted Computing & Applied Homomorphic Cryptography'
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3605759.3625258'
