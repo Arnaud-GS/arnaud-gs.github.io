@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Lecturer"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Lecture"
+permalink: /teaching/2020-lecture
+venue: "Institut national des sciences et techniques nucléaires (INSTN)"
+date: 2020-2021
+location: "Saclay, France"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I designed and taught a 1h30 course about attacks and defenses on data privacy in deep learning.
