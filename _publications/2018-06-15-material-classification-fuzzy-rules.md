@@ -2,6 +2,7 @@
 title: "Fuzzy rule learning for material classification from imprecise data"
 collection: publications
 permalink: /publication/2018-06-15-material-classification-fuzzy-rules
+excerpt: ""
 date: 2018-06-15
 venue: 'Information Processing and Management of Uncertainty in Knowledge-Based Systems. Theory and Foundations: 17th International Conference (IPMU 2018)'
 paperurl: 'https://cea.hal.science/cea-01838452/file/JPPoli_Fuzzy%20rule%20learning%20for%20material%20classification%20from%20imprecise%20data.pdf'
