@@ -2,6 +2,7 @@
 title: "Rank Aggregation by Dissatisfaction Minimisation in the Unavailable Candidate Model"
 collection: publications
 permalink: /publication/2021-05-03-rank-aggregation
+excerpt: ""
 date: 2021-05-03
 venue: '20th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2021)'
 paperurl: 'https://hal.sorbonne-universite.fr/hal-03142810/document'
