@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Student project supervisor"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Student project sueprvision"
+permalink: /teaching/2017-project-supervision
+venue: "CentraleSupélec"
+date: 2017
+location: "Gif-sur-Yvette, France"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I supervised a team of four undergraduate students on a project proposed as a CEA researcher on explainable material classification using genetic algorithms.
