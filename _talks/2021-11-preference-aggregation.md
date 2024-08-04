@@ -1,0 +1,10 @@
+---
+title: "Algorithmic Decision Theory: 7th International Conference (ADT), 2021"
+collection: talks
+type: "Talk"
+permalink: /talks/2021-11-preference-aggregation
+venue: "Algorithmic Decision Theory: 7th International Conference (ADT)"
+date: 2021-11
+location: "Toulouse, France"
+---
+20-minute presentation on our paper [Preference Aggregation in the Generalised Unavailable Candidate Model](https://hal.sorbonne-universite.fr/hal-03384439/file/paper_44%20%282%29.pdf).
