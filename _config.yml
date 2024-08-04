@@ -24,7 +24,7 @@ author:
   avatar           : "portrait.jpg"
   name             : "Arnaud Grivet Sébert"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "Palaiseau"
   employer         : "Ecole Polytechnique"
   uri              : # URL
