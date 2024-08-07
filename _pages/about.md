@@ -14,3 +14,11 @@ Previously, I did my PhD between 2020 and 2023 in [CEA List](https://list.cea.fr
 Before my PhD, I worked as a research engineer in [LIP6](https://www.lip6.fr/) in 2019, under the supervision of [Nicolas Maudet](https://nmaudet.gitlab.io/), [Patrice Perny](https://webia.lip6.fr/~perny/) and [Paolo Viappiani](https://scholar.google.com/citations?user=lxuuuHgAAAAJ), in the area of computational social choice. We proposed and studied a voting rule suited for the situations where some candidates may turn out to be unavailable after the vote.
 
 Before this, I entered research working in [CEA List](https://list.cea.fr/) for [C-BORD](https://www.cbord-h2020.eu/) project, under the supervision of [Jean-Philippe Poli](https://polijp.github.io/), between 2017 and 2018. I designed an explainable classification algorithm dealing with imprecise inputs thanks to fuzzy decision trees.
+
+
+Main research interests
+------
+- data privacy, in particular differential privacy
+- frugal machine learning
+- collaborative machine learning
+- computational social choice
