@@ -19,6 +19,6 @@ Before this, I entered research working in [CEA List](https://list.cea.fr/) for 
 Main research interests
 ------
 - data privacy, in particular differential privacy
-- frugal machine learning
 - collaborative machine learning
+- frugal machine learning
 - computational social choice
