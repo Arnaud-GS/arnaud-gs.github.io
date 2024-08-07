@@ -7,7 +7,7 @@ venue: "CEA Saclay"
 date: 2023-06-12
 location: "Gif-sur-Yvette, France"
 ---
-45-minute presentation followed by a discussion on 'Combining differential privacy and homomorphic encryption for privacy-preserving collaborative machine learning'​. Check the slides [here](#files\PhD_defense_without_additional_slides.pdf).
+45-minute presentation followed by a discussion on 'Combining differential privacy and homomorphic encryption for privacy-preserving collaborative machine learning'​. Check the slides [here](/files/PhD_defense_without_additional_slides.pdf).
 
 The jury was composed of:
 - [David Pointcheval](https://www.di.ens.fr/david.pointcheval/index.php) (president)
