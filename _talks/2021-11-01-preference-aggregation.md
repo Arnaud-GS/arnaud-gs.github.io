@@ -1,5 +1,5 @@
 ---
-title: "Algorithmic Decision Theory: 7th International Conference (ADT), 2021"
+title: "Preference Aggregation in the Generalised Unavailable Candidate Model @ ADT"
 collection: talks
 type: "Talk"
 permalink: /talks/2021-11-01-preference-aggregation
