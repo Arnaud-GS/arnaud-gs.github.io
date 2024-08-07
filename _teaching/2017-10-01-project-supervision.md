@@ -1,7 +1,7 @@
 ---
 title: "Student project supervisor"
 collection: teaching
-type: "Student project sueprvision"
+type: "Student project supervision"
 permalink: /teaching/2017-10-01-project-supervision
 venue: "CentraleSupélec"
 date: 2017-10-01
