@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a postdoctoral researcher in Macquarie University, Sydney, Australia, working with [Annabelle McIver](https://researchers.mq.edu.au/en/persons/annabelle-mciver) and [Mark Dras](https://mark-dras.github.io) on privacy techniques (differential privacy and others) with application to textual data. I am especially interested in the theoretical aspects of privacy, but also in its relations with other ethical properties like frugality, robustness, fairness.
+I am currently a postdoctoral researcher in [Macquarie University](https://www.mq.edu.au), Sydney, Australia, working with [Annabelle McIver](https://researchers.mq.edu.au/en/persons/annabelle-mciver) and [Mark Dras](https://mark-dras.github.io) on privacy techniques (differential privacy and others) with application to textual data. I am especially interested in the theoretical aspects of privacy, but also in its relations with other ethical properties like frugality, robustness, fairness.
 
 Last year, I did a postdoc in Optimix team in [LIX](https://www.lix.polytechnique.fr/) (Laboratoire d'Informatique de l'Ecole Polytechnique), Palaiseau, France, where I worked with [Catuscia Palamidessi](https://www.lix.polytechnique.fr/~catuscia/) and [Sonia Vanier](https://scholar.google.com/citations?user=Z9WDDfcAAAAJ), in a partnership with [Crédit Agricole](https://www.credit-agricole.fr/) (French bank), on data privacy in machine learning, especially differential privacy.
 
