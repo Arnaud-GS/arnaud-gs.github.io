@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a postdoctoral researcher in [KTH Royal Institute of Technology](https://www.kth.se/en), Stockholm, Sweden, working with [Tobias Oechtering](https://www.kth.se/profile/oech/) and [Martina Scolamiero(https://www.kth.se/profile/scola/) on privacy, and particularly pointwise maximal leakage, while using concepts from quantitative information flow. We also tackle some problems at the intersection of privacy and topological data analysis. I am especially interested in the theoretical aspects of privacy, but also in its relations with other ethical properties like frugality, robustness, fairness.
+I am currently a postdoctoral researcher in [KTH Royal Institute of Technology](https://www.kth.se/en), Stockholm, Sweden, working with [Tobias Oechtering](https://www.kth.se/profile/oech/) and [Martina Scolamiero](https://www.kth.se/profile/scola/) on privacy, and particularly pointwise maximal leakage, while using concepts from quantitative information flow. We also tackle some problems at the intersection of privacy and topological data analysis. I am especially interested in the theoretical aspects of privacy, but also in its relations with other ethical properties like frugality, robustness, fairness.
 
 Last year, I worked as a postdoc in [Macquarie University](https://www.mq.edu.au), Sydney, Australia, with [Annabelle McIver](https://researchers.mq.edu.au/en/persons/annabelle-mciver) and [Mark Dras](https://mark-dras.github.io) on privacy techniques (differential privacy, pointwise maximal leakage) with application to textual data.
 
